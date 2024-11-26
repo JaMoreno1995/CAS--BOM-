@@ -1,7 +1,7 @@
 # CASİBOM - CASİBOM GİRİŞ - CASİBOM GÜNCEL GİRİŞ 2024
 ## Güncel Giriş Bilgileri 2024
 
-CASİBOM, erişim sorunlarını aşmak ve kesintisiz hizmet sunmak adına giriş adreslerini düzenli olarak güncellemektedir. Güncel bağlantılara platformun resmi sosyal medya hesapları veya [giriş linki](https://www.kisa.link/wauNs) üzerinden ulaşabilirsiniz. Ayrıca, mobil uygulama kullanarak erişim daha pratik hale gelmektedir.
+CASİBOM, erişim sorunlarını aşmak ve kesintisiz hizmet sunmak adına giriş adreslerini düzenli olarak güncellemektedir. Güncel bağlantılara platformun resmi sosyal medya hesapları veya giriş linki üzerinden ulaşabilirsiniz. Ayrıca, mobil uygulama kullanarak erişim daha pratik hale gelmektedir.
 
 ### CASİBOM Mobil Uygulaması
 
