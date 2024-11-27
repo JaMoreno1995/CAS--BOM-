@@ -20,7 +20,7 @@ Mobil kullanıcılar için optimize edilmiş CASİBOM uygulaması, tüm özellik
 Platformun ana sayfasında yer alan "Kayıt Ol" sekmesini kullanarak üyelik işlemlerinizi gerçekleştirebilirsiniz.
 
 ### Giriş Adresi Neden Güncelleniyor?
-Bazı durumlarda erişim engellemeleri nedeniyle adres değişikliği yapılabilir. Güncel adreslere her zaman [buradan](https://www.kisa.link/wauNs) ulaşabilirsiniz.
+Bazı durumlarda erişim engellemeleri nedeniyle adres değişikliği yapılabilir. Güncel adreslere her zaman buradan ulaşabilirsiniz.
 
 ### Hangi Ödeme Yöntemleri Geçerli?
 Banka transferi, e-cüzdanlar ve diğer güvenli yöntemler ile işlemlerinizi kolayca tamamlayabilirsiniz.
